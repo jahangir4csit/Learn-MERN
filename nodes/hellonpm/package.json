@@ -1,0 +1,13 @@
+{
+  "name": "hellonpm",
+  "version": "1.0.0",
+  "description": "This is my first npm based node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "mern": "node index.js",
+    "start": "npm run mern"
+  },
+  "author": "Jahangir Ahmed",
+  "license": "MIT"
+}
